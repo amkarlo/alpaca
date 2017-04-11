@@ -1,5 +1,6 @@
 {
   "name": "alpaca",
+  "main": "dist/alpaca/bootstrap/alpaca.js",
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install --force",
     "postupdate": "./node_modules/.bin/bower update",
