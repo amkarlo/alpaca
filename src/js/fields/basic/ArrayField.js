@@ -1795,6 +1795,10 @@
                                         "type": "string",
                                         "title": "Action CSS Classes for Icon"
                                     },
+				    "buttonClass": {
+                                        "type": "string",
+                                        "title": "Action CSS Classes for Button"
+                                    },
                                     "click": {
                                         "type": "function",
                                         "title": "Action Click Handler"
@@ -1831,6 +1835,10 @@
                                     "iconClass": {
                                         "type": "string",
                                         "title": "Action CSS Classes for Icon"
+                                    },
+				    "buttonClass": {
+                                        "type": "string",
+                                        "title": "Action CSS Classes for Button"
                                     },
                                     "click": {
                                         "type": "function",
